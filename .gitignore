@@ -1,0 +1,8 @@
+# Test binary, build with `go test -c`
+*.test
+
+# Vendored dependencies
+vendor/
+
+# Coverage results
+**/coverage.out
