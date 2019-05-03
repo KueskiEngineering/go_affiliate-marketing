@@ -65,3 +65,26 @@ Those marked with an * means that this case is handled successfully by the libra
 | ExistingLead                        | 41          | Evaluated lead exists in Kueski database |
 | DuplicatedLead                      | 42          | An evaluation with any of the CURP or email has been performed before |
 | GeneralError                        | 99          | Generic error, it indicates an error in the library |
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/KueskiEngineering/go_affiliate-marketing/tags). 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Authors
+
+* **Ernesto Espinosa** - *Developer* - [enchf](https://github.com/enchf)
+* **Karol Gutierrez** - *Developer* - [karol22](https://github.com/karol22)
+
+## Special Thanks
+
+* **Edgar Cortes** - [Totodrilo](https://github.com/Totodrilo)
+* **Edgar Cabrera** - [aleandros](https://github.com/aleandros)
+* **Juan Resendiz** - [jresendiz27](https://github.com/jresendiz27)
